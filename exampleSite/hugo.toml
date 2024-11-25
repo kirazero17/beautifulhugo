@@ -84,6 +84,7 @@ pygmentsCodefencesGuessSyntax = true
   medium = "username"
   discord = "invite code (https://discord.gg/XXXXXXX)"
   strava = "userid"
+  lastfm = "username"
 
 [[menu.main]]
     name = "Blog"
